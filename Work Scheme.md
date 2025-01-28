@@ -1,9 +1,9 @@
-#Work Scheme
+# Work Scheme
 
-##Roles:
+## Roles:
 Graphics Designer: Beatrice Risso
 Coders: Simone Robresco, Francesco Torterolo
 Notebook Redactor: Luca Grosso
 
-###Introduction:
+### Introduction:
 
